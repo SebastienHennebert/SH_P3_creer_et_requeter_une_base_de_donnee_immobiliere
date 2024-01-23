@@ -2,9 +2,9 @@
 
 **Projet 3 de la formation Data Analyst Openclassrooms : CREER ET REQUÊTER UNE BASE DE DONNEES IMMOBILIERE**
 
-Contexte : Un réseau d'agences immobilières souhaite mieux évaluer l'évolution des prix de vente des biens immobiliers à partir des données existantes et issues de ses propres bases ainsi que du site open data des Demandes de valeurs foncières (DVF). 
-
 Projet réalisé avec MySQL
+
+Contexte : Un réseau d'agences immobilières souhaite mieux évaluer l'évolution des prix de vente des biens immobiliers à partir des données existantes et issues de ses propres bases ainsi que du site open data des Demandes de valeurs foncières (DVF). 
 
 Mission : Créer une base de données relationnelle comportant des tables sur les ventes, les biens, la localisation à partir d'un fichier csv général. Requêter cette base de données afin d'extraire des informations (Nombre de ventes par région, nombre d'appartements vendus, évolution du nombre de vente entre deux semestres, moyenne des valeurs foncières sur le top 3 des communes, etc.)
 
